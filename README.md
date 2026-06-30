@@ -46,7 +46,8 @@ This project analyzes 9,993 retail transactions (2014–2017) across 4 U.S. regi
 
 ## 📈 Dashboard Previews
 
-*(See `/screenshots` folder for Excel and Power BI dashboard images)*
+### 1 - PowerBI
+<img width="1131" height="646" alt="Dashboard - 3" src="https://github.com/Bsbiswal231/Sales-Performance-Analytics/blob/main/screenshot/PowerBI%20Dashboard.png" />
 
 ---
 
